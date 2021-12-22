@@ -17,11 +17,10 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                         alt="javascript" width="40" height="40" /> </a> </p>
 </div>
-<div>
-    <p align="left"> <img
-                src="https://komarev.com/ghpvc/?username=nogueiradani&label=Profile%20views&color=0e75b6&style=flat"
-                alt="nogueiradani" /> </p>
-</div>
+ <p align="left"> <img
+           src="https://komarev.com/ghpvc/?username=nogueiradani&label=Profile%20views&color=0e75b6&style=flat"
+           alt="nogueiradani" /></p>
+
        
 <div> 
   <a href="https://www.instagram.com/daninogueiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
