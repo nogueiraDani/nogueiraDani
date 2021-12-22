@@ -10,8 +10,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="daniela-nogueira-rampim" height="30" width="40" /></a>
 </p>
-<p>
-    <a href="mailto:nogueiradanielaa@gmail.com" target="">Contato</a>
+<p>Contato:
+    <a href="mailto:nogueiradanielaa@gmail.com" target="">nogueiradanielaa@gmail.com</a>
 </p>
 <p align="left">
 
