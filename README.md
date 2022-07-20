@@ -7,9 +7,11 @@
 
 - 👩🏻‍💻 Estudo tecnologias para Full stack 
 
-- 👩‍🎓Bacharel em Moda
+- 🎓 Bacharel em Moda
+  
+- 💼 Em transição de carreira
 
-- 📫 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
+- 📬 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
 
 - 🌎 Blumenau - SC - Brazil
  <br> 
