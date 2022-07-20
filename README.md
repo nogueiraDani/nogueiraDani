@@ -12,8 +12,7 @@
 - 📫 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
 
 - 🌎 Blumenau - SC - Brazil
-<br>
-<br>
+- 
 
 **Linguagens e ferramentas:**
 
@@ -27,16 +26,16 @@
     <img style="padding:2px" align="left" width="30px" src="./src/java.png">
     <img style="padding:2px" align="left" width="30px" src="./src/intelliJ-icon.png">
 </div>
-<br>
+
 
 ***
-<br>
+
 
 ### 📒 Aqui você encontra meus [estudos](https://github.com/nogueiraDani/meus-estudos) e [projetos](https://github.com/nogueiraDani/meus-projetos) desenvolvidos
-<br>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=nogueiraDani&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
-<br>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&layout=compact&langs_count=7&theme=onedark)
 
