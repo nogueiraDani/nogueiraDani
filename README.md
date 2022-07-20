@@ -3,31 +3,30 @@
 
 **Sobre mim:**
 
-🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...
+- 🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...
 
-👩🏻‍💻 Estudo tecnologias para Full stack 
+- 👩🏻‍💻 Estudo tecnologias para Full stack 
 
-👩‍🎓Bacharel em Moda
+- 👩‍🎓Bacharel em Moda
 
-📫 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
+- 📫 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
 
-🗺️ Blumenau - SC - Brazil
+- 🌎 Blumenau - SC - Brazil
 <br>
 <br>
 
 **Linguagens e ferramentas:**
 
 <div style="display:flex;">
-    <img style="padding:3px;" align="left" width="30px" src="./src/html5.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/css-3.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/sass.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/tailwind.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/js.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/vscode-icon.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/java.png">
-    <img style="padding:3px" align="left" width="30px" src="./src/intelliJ-icon.png">
+    <img style="padding:2px;" align="left" width="30px" src="./src/html5.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/css-3.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/sass.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/tailwind.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/js.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/vscode-icon.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/java.png">
+    <img style="padding:2px" align="left" width="30px" src="./src/intelliJ-icon.png">
 </div>
-<br>
 <br>
 
 ***
