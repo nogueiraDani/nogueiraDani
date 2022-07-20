@@ -17,14 +17,14 @@
 **Linguagens e ferramentas:**
 
 <div style="display:flex;">
-    <img style="padding:2px;" align="left" width="30px" src="./src/html5.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/css-3.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/sass.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/tailwind.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/js.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/vscode-icon.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/java.png">
-    <img style="padding:2px" align="left" width="30px" src="./src/intelliJ-icon.png">
+    <img align="left" width="30px" src="./src/html5.png">
+    <img align="left" width="30px" src="./src/css-3.png">
+    <img align="left" width="30px" src="./src/sass.png">
+    <img align="left" width="30px" src="./src/tailwind.png">
+    <img align="left" width="30px" src="./src/js.png">
+    <img align="left" width="30px" src="./src/vscode-icon.png">
+    <img align="left" width="30px" src="./src/java.png">
+    <img align="left" width="30px" src="./src/intelliJ-icon.png">
 </div>
 <br>
 
