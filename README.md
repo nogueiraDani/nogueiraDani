@@ -17,14 +17,14 @@
 **Linguagens e ferramentas:**
 
 <div style="display:flex;">
-    <img align="left" width="30px" src="./src/html5.png">
-    <img align="left" width="30px" src="./src/css-3.png">
-    <img align="left" width="30px" src="./src/sass.png">
-    <img align="left" width="30px" src="./src/tailwind.png">
-    <img align="left" width="30px" src="./src/js.png">
-    <img align="left" width="30px" src="./src/vscode-icon.png">
-    <img align="left" width="30px" src="./src/java.png">
-    <img align="left" width="30px" src="./src/intelliJ-icon.png">
+    <img align="left" width="20px" src="./src/html5.png">
+    <img align="left" width="20px" src="./src/css-3.png">
+    <img align="left" width="20px" src="./src/sass.png">
+    <img align="left" width="20px" src="./src/tailwind.png">
+    <img align="left" width="20px" src="./src/js.png">
+    <img align="left" width="20px" src="./src/vscode-icon.png">
+    <img align="left" width="20px" src="./src/java.png">
+    <img align="left" width="20px" src="./src/intelliJ-icon.png">
 </div>
 <br>
 
