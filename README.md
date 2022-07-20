@@ -12,7 +12,7 @@
 - 📫 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
 
 - 🌎 Blumenau - SC - Brazil
-  
+ <br> 
 
 **Linguagens e ferramentas:**
 
