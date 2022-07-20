@@ -16,16 +16,16 @@
 
 **Linguagens e ferramentas:**
 
-
-<img width="25px" src="./src/html5.png">
-<img width="25px" src="./src/css-3.png">
-<img width="25px" src="./src/sass.png">
-<img width="25px" src="./src/tailwind.png">
-<img width="25px" src="./src/js.png">
-<img width="25px" src="./src/vscode-icon.png">
-<img width="25px" src="./src/java.png">
-<img width="25px" src="./src/intelliJ-icon.png">
-
+<div style="display:flex">
+    <img width="25px" src="./src/html5.png">
+    <img width="25px" src="./src/css-3.png">
+    <img width="25px" src="./src/sass.png">
+    <img width="25px" src="./src/tailwind.png">
+    <img width="25px" src="./src/js.png">
+    <img width="25px" src="./src/vscode-icon.png">
+    <img width="25px" src="./src/java.png">
+    <img width="25px" src="./src/intelliJ-icon.png">
+</div>
 <br>
 
 
