@@ -36,10 +36,10 @@
 
 ***
 
-![](https://github-readme-stats.vercel.app/api?username=nogueiraDani&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nogueiraDani&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&layout=compact&langs_count=7&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&theme=nightowl&langs_count=5&&layout=compact)
 
 ### 🌟 Aqui você encontra meus estudos e projetos desenvolvidos.
 
