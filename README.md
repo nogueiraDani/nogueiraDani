@@ -18,7 +18,7 @@
 
 **Linguagens e ferramentas:**
 
-<div style="display:flex">
+<div style="display:flex, margin-left: 6px">
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -36,14 +36,28 @@
 
 ***
 
-
-### 📒 Aqui você encontra meus [estudos](https://github.com/nogueiraDani/meus-estudos) e [projetos](https://github.com/nogueiraDani/meus-projetos) desenvolvidos
-
-
 ![](https://github-readme-stats.vercel.app/api?username=nogueiraDani&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&layout=compact&langs_count=7&theme=onedark)
+
+### 🌟 Aqui você encontra meus estudos e projetos desenvolvidos.
+
+***
+
+### 📚 **Estudos:**
+
+- ✏️ [Anotações de aulas (Js | html | css | Java | Angular)](https://github.com/nogueiraDani/meus-estudos)
+
+- 📖 [Java](https://github.com/nogueiraDani/SantanderCodeGirls--dio)
+
+***
+
+### 🧠 **Projetos:**
+
+- 📕 [Angular](https://github.com/nogueiraDani/projeto-angular)
+
+- 📖 [Java POO](https://github.com/nogueiraDani/desafio--poo-dio)
 
 
 
