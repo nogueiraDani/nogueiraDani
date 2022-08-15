@@ -19,14 +19,17 @@
 **Linguagens e ferramentas:**
 
 <div style="display:flex">
-    <img width="25px" src="./src/html5.png">
-    <img width="25px" src="./src/css-3.png">
-    <img width="25px" src="./src/sass.png">
-    <img width="25px" src="./src/tailwind.png">
-    <img width="25px" src="./src/js.png">
-    <img width="25px" src="./src/vscode-icon.png">
-    <img width="25px" src="./src/java.png">
-    <img width="25px" src="./src/intelliJ-icon.png">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">     
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+          
 </div>
 <br>
 
