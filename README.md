@@ -61,6 +61,8 @@
 
 - 📖 [Java POO](https://github.com/nogueiraDani/desafio--poo-dio)
 
+- :abacus: [TypeScript](https://github.com/nogueiraDani/Maximum-Submissions)
+
 
 
 
