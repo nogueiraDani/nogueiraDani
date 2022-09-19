@@ -3,19 +3,14 @@
 
 **Sobre mim:**
 
-- 🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...
-
-- 👩🏻‍💻 Estudo tecnologias para Full stack 
-
-- 🎓 Bacharel em Moda
-  
-- 💼 Em transição de carreira
-
-- 📬 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)
-
-- 🌎 Blumenau - SC - Brazil
- <br> 
-
+ 🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...<br>
+ 👩🏻‍💻 Estudo tecnologias para Full stack (JavaScript | TypeScript | Angular | Java)<br>
+ 🎓 Bacharel em Moda<br>
+ 💼 Em transição de carreira <br>
+ 📬 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)<br>
+🌎 Blumenau - SC - Brazil
+<br> 
+<br>
 **Linguagens e ferramentas:**
 
 <div style="display:flex, margin-left: 6px">
@@ -35,33 +30,7 @@
 <br>
 
 
-***
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&theme=nightowl&langs_count=5&&layout=compact)
-
-<!--![](https://github-readme-stats.vercel.app/api?username=nogueiraDani&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)-->
-
-
-
-### 🌟 Aqui você encontra meus estudos e projetos desenvolvidos.
-
-***
-
-### 📚 **Estudos:**
-
-- ✏️ [Anotações de aulas (Js | html | css | Java | Angular)](https://github.com/nogueiraDani/meus-estudos)
-
-- 📖 [Java](https://github.com/nogueiraDani/SantanderCodeGirls--dio)
-
-***
-
-### 🧠 **Projetos:**
-
-- 📕 [Angular](https://github.com/nogueiraDani/projeto-angular)
-
-- 📖 [Java POO](https://github.com/nogueiraDani/desafio--poo-dio)
-
-- :abacus: [TypeScript](https://github.com/nogueiraDani/Maximum-Submissions)
 
 
 
