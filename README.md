@@ -4,7 +4,7 @@
 **Sobre mim:**
 
  🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...<br>
- 👩🏻‍💻 Estudo tecnologias para Full stack (JavaScript | TypeScript | Angular | Java)<br>
+ 👩🏻‍💻 Estudo tecnologias para Back end (JavaScript | TypeScript | Angular | Java)<br>
  🎓 Bacharel em Moda<br>
  💼 Em transição de carreira <br>
  📬 Contatos: [linkedIn](https://www.linkedin.com/in/daniela-nogueira-rampim/), [instagram](https://www.instagram.com/daninogueiraa/), [email](mailto:daninogueira.dev@gmail.com)<br>
