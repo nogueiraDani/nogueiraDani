@@ -11,7 +11,7 @@
 
  🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...<br>
  👩🏻‍💻 Estudo tecnologias para Full Stack <br>
- 🎓 Bacharel em Moda | Entra21 C# <br>
+ 🎓 Cursando Sistemas de Informção | Entra21 C# | Bacharel em Moda<br>
  💼 Em transição de carreira <br>
 🌎 Blumenau - SC - Brazil
 
