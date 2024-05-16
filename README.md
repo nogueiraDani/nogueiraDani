@@ -47,6 +47,6 @@
 ---
 <div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&theme=nightowl&langs_count=5&&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&layout=compact)
 
 </div>
