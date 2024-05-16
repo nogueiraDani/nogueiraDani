@@ -9,11 +9,11 @@
 
 **Sobre mim:**
 
- 🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar...<br>
- 👩🏻‍💻 Estudo tecnologias para Full Stack <br>
- 🎓 Cursando Sistemas de Informção | Entra21 C# <br>
- 💼 Em transição de carreira <br>
-🌎 Blumenau - SC - Brazil
+ 🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar... Tenho mais de 10 anos de experiencia como modelista, desenvolvi muitas habilidades valiosas no meu cotidiano, como resiliencia, gestao de tempo, colaboração e trabalho em equipe. Sinto que chegou o momento de me desafiar em novos caminhos. <br>
+ 👩🏻‍💻 Estudo tecnologias para Full Stack, como HTML, CSS, Bootstrap, Javascript, C#, Java. <br>
+ 🎓 Atualmente estou cursando Sistemas de Informção (conclusão prevista para 2028), participei também do Entra21 C# (concluído em Abril/2024) <br>
+ 💼 Busco oportunidade para iniciar minha transição de carreira <br>
+ 🌎 Blumenau - SC - Brazil
 
 ---
 **Estudando no momento:**
