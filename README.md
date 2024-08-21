@@ -1,52 +1,100 @@
 # Olá 👋 eu sou a Daniela Nogueira Rampim
 
+###
 
-<div>
-	<a href="https://contate.me/daninogueira" target= "_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"><a/>
-	<a href="https://www.linkedin.com/in/daniela-nogueira-rampim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href = "mailto:daninogueira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	
+### Contatos:
+
+###
+
+<div align="left">
+    <a href="https://contate.me/daninogueira" target= "_blank">
+        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/daniela-nogueira-rampim" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+    <a href = "mailto:daninogueira.dev@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
 </div>
 
-**Sobre mim:**
+---
 
- 🧵 Sou uma modelista apaixonada por tecnologia e design, aprendendo a programar... Tenho mais de 10 anos de experiencia como modelista, desenvolvi muitas habilidades valiosas no meu cotidiano, como resiliencia, gestao de tempo, colaboração e trabalho em equipe. Sinto que chegou o momento de me desafiar em novos caminhos. <br>
- 👩🏻‍💻 Estudo tecnologias para Full Stack, como HTML, CSS, Bootstrap, Javascript, C#, Java. <br>
- 🎓 Atualmente estou cursando Sistemas de Informção (conclusão prevista para 2028), participei também do Entra21 C# (concluído em Abril/2024) <br>
- 💼 Busco oportunidade para iniciar minha transição de carreira <br>
- 🌎 Blumenau - SC - Brazil
 
+#### Sobre mim:
+
+👋 Olá, seja bem vindo! 
+
+🧵Eu sou a Daniela, estou cursando meu segundo bacharelado em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para Maio/2028. Minha primeira formação foi em bacharel em moda, concluída em 2010. Atuei por 12 anos no setor têxtil como modelista de roupas, desenvolvi muitas habilidades valiosas ao longo da minha trajetória, como: comunicação, resolução de problemas, trabalho em equipe, adaptabilidade, aprendizagem rápida, resiliência e proatividade. 
+
+💻 Há muito tempo sou entusiasta em tecnologia e programação, trabalhar com tecnologia sempre foi um desejo intenso. Estudo nas horas vagas desde 2022, mas em 2024 percebi que tinha chegado o momento de seguir esse caminho oficialmente. 
+
+👩🏻‍💻 Tenho focado meus estudos em tecnologias para desenvolvimento web com Java e Angular
+
+🎓 Participei também do Entra21 C# (concluído em Abril/2024)
+
+💼 Busco oportunidade como desenvolvedora web júnior.
+
+🌎 Blumenau - SC - Brazil
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nogueiraDani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nogueiraDani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+---
+**Já estudei / tenho conhecimento básico:**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
 ---
 **Estudando no momento:**
 
-<div style="display:flex, margin-left: 6px">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="logo html5" title="HTML5">    
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="logo css" title="CSS3">
-    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="logo bootstrap" title="Bootstrap 5" >       
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="logo javascript" title="Javascript">
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/csharp/csharp-original.svg" alt="logo C#" title="C#">  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
 
-
-**Qual será a próxima linguagem:**
-
-<div style="display:flex, margin-left: 6px">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="logo Java" title="Java">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="logo Typescript" title="Typescript">     
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="logo Angular" title="Angular">
-</div>
-
-
-**IDEs que uso:**
-
-<div style="display:flex, margin-left: 6px">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="logo vs code" title="VS code">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="logo intellij" title="Intellij">  
-</div>
-
+###
 
 ---
-<div>
+**IDEs que tenho familiaridade:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiraDani&layout=compact)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nogueiraDani/nogueiraDani/output/snake.svg" alt="Snake animation" />
+
+###
