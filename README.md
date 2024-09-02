@@ -25,7 +25,7 @@
 
 👋 Olá, seja bem vindo! 
 
-🧵Eu sou a Daniela, estou cursando meu segundo bacharelado em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para Maio/2028. Minha primeira formação foi em bacharel em moda, concluída em 2010. Atuei por 12 anos no setor têxtil como modelista de roupas, desenvolvi muitas habilidades valiosas ao longo da minha trajetória, como: comunicação, resolução de problemas, trabalho em equipe, adaptabilidade, aprendizagem rápida, resiliência e proatividade. 
+🧵Eu sou a Daniela, estou cursando meu segundo bacharelado em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para Maio/2028. Minha primeira formação foi em bacharel em moda, concluída em 2010. Atuei por 12 anos no setor têxtil como modelista de roupas, desenvolvi muitas habilidades valiosas ao longo da minha trajetória, como: comunicação, resolução de problemas, trabalho em equipe, adaptabilidade, aprendizagem rápida, resiliência e proatividade, habilidades que acredito serem valiosas em todo ambiente corporativo. 
 
 💻 Há muito tempo sou entusiasta em tecnologia e programação, trabalhar com tecnologia sempre foi um desejo intenso. Estudo nas horas vagas desde 2022, mas em 2024 percebi que tinha chegado o momento de seguir esse caminho oficialmente. 
 
