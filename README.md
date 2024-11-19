@@ -1,4 +1,4 @@
-# Olá 👋 eu sou a Daniela Nogueira Rampim
+# Olá, seja bem-vindo!👋
 
 ###
 
@@ -23,20 +23,31 @@
 
 #### Sobre mim:
 
-👋 Olá, seja bem vindo! 
+Eu sou a Daniela, atualmente cursando meu segundo bacharelado em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para Maio/2028. Minha primeira formação foi em Bacharelado em Moda, concluída em 2010. Ao longo de 12 anos de experiência no setor têxtil como modelista de roupas, desenvolvi diversas habilidades valiosas, como:
 
-🧵Eu sou a Daniela, estou cursando meu segundo bacharelado em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para Maio/2028. Minha primeira formação foi em bacharel em moda, concluída em 2010. Atuei por 12 anos no setor têxtil como modelista de roupas, desenvolvi muitas habilidades valiosas ao longo da minha trajetória, como: comunicação, resolução de problemas, trabalho em equipe, adaptabilidade, aprendizagem rápida, resiliência e proatividade, habilidades que acredito serem valiosas em todo ambiente corporativo. 
+* Comunicação eficaz
+* Resolução de problemas
+* Trabalho em equipe
+* Adaptabilidade
+* Aprendizagem rápida
+* Resiliência
+* Proatividade
 
-💻 Há muito tempo sou entusiasta em tecnologia e programação, trabalhar com tecnologia sempre foi um desejo intenso. Estudo nas horas vagas desde 2022, mas em 2024 percebi que tinha chegado o momento de seguir esse caminho oficialmente. 
+Acredito que essas competências são fundamentais em qualquer ambiente corporativo e tenho plena confiança de que posso aplicá-las também na área de tecnologia.
 
-👩🏻‍💻 Tenho focado meus estudos em tecnologias para desenvolvimento web com Java e Angular
+💻 Tecnologia e Programação sempre foram grandes paixões para mim. Estudo de forma independente desde 2022, e em 2024 decidi seguir oficialmente minha carreira no campo do desenvolvimento de software.
 
-🎓 Participei também do Entra21 C# (concluído em Abril/2024)
+🔧 Tecnologias em que estou focando atualmente:
 
-💼 Busco oportunidade como desenvolvedora web júnior.
+* Java
+* Angular
+* Desenvolvimento Web
 
-🌎 Blumenau - SC - Brazil
+🎓 Além disso, participei do Entra21 - Backend em C#, concluído em Abril/2024.
 
+💼 Objetivo: Estou em busca de uma oportunidade como Desenvolvedora Web Júnior, onde possa aplicar meus conhecimentos e continuar aprendendo na área de desenvolvimento de software.
+
+🌍 Localização: Blumenau - SC - Brazil
 
 ###
 
