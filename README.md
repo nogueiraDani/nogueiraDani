@@ -23,31 +23,48 @@
 
 #### Sobre mim:
 
-Eu sou a Daniela, atualmente cursando meu segundo bacharelado em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para Maio/2028. Minha primeira formação foi em Bacharelado em Moda, concluída em 2010. Ao longo de 12 anos de experiência no setor têxtil como modelista de roupas, desenvolvi diversas habilidades valiosas, como:
+Olá, eu sou a Daniela, uma futura desenvolvedora de software com grande entusiasmo por tecnologia e inovação. Atualmente, estou aprofundando meus conhecimentos em:
+
+* Java
+* Angular
+* Desenvolvimento Web
+* APIs REST
+* Spring Boot
+* Spring Data JPA
+
+Em 2024, tomei a decisão de seguir oficialmente minha carreira na área de tecnologia, transformando minha paixão por programação em uma trajetória profissional.
+
+#### 🎓 Formação Acadêmica
+
+Estou cursando meu segundo bacharelado, em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para maio de 2028. Minha primeira formação foi em Moda, concluída em 2010.
+
+#### 📚 Formação Complementar
+
+* Entra21 - Backend JAVA (presencial), pelo SENAC, início em Janeiro de 2025, para aprofundar ainda mais minhas habilidades no ecossistema Java.
+* Curso de Spring Data JPA com Spring Boot, pela Udemy, concluido em dezembro de 2024.
+* Entra21 - Backend em C# (EAD), pelo SENAI, concluído em abril de 2024.
+
+#### 💼 Experiência Profissional
+
+Antes de migrar para a área de tecnologia, trabalhei por 13 anos no setor têxtil como modelista de roupas. Essa experiência me permitiu desenvolver competências fundamentais que aplico no meu dia a dia, como:
 
 * Comunicação eficaz
 * Resolução de problemas
 * Trabalho em equipe
 * Adaptabilidade
-* Aprendizagem rápida
+* Aprendizado rápido
 * Resiliência
 * Proatividade
 
-Acredito que essas competências são fundamentais em qualquer ambiente corporativo e tenho plena confiança de que posso aplicá-las também na área de tecnologia.
+Acredito que essas habilidades são essenciais em qualquer ambiente corporativo, incluindo o desenvolvimento de software.
 
-💻 Tecnologia e Programação sempre foram grandes paixões para mim. Estudo de forma independente desde 2022, e em 2024 decidi seguir oficialmente minha carreira no campo do desenvolvimento de software.
+#### 🌟 Objetivo Profissional
 
-🔧 Tecnologias em que estou focando atualmente:
+Estou em busca de uma oportunidade como Junior Software Developer, onde possa aplicar meus conhecimentos, aprender continuamente e contribuir para projetos inovadores.
 
-* Java
-* Angular
-* Desenvolvimento Web
+#### 🌍 Localização
 
-🎓 Além disso, participei do Entra21 - Backend em C#, concluído em Abril/2024.
-
-💼 Objetivo: Estou em busca de uma oportunidade como Desenvolvedora Web Júnior, onde possa aplicar meus conhecimentos e continuar aprendendo na área de desenvolvimento de software.
-
-🌍 Localização: Blumenau - SC - Brazil
+Blumenau - SC, Brasil
 
 ###
 
