@@ -28,9 +28,10 @@ Olá, eu sou a Daniela, uma futura desenvolvedora de software com grande entusia
 * Java
 * Angular
 * Desenvolvimento Web
-* APIs REST
-* Spring Boot
+* APIs RESTful
+* Spring Framework
 * Spring Data JPA
+* JUnit5, Mockito, TDD e TestContainers. 
 
 Em 2024, tomei a decisão de seguir oficialmente minha carreira na área de tecnologia, transformando minha paixão por programação em uma trajetória profissional.
 
@@ -40,8 +41,9 @@ Estou cursando meu segundo bacharelado, em Sistemas de Informação pela Uninter
 
 #### 📚 Formação Complementar
 
+* Curso - Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito, pela Udemy, início em Janeiro de 205, para adquirir conhencimentos em testes.
 * Entra21 - Backend JAVA (presencial), pelo SENAC, início em Janeiro de 2025, para aprofundar ainda mais minhas habilidades no ecossistema Java.
-* Curso de Spring Data JPA com Spring Boot, pela Udemy, concluido em dezembro de 2024.
+* Curso - Spring Data JPA com Spring Boot, pela Udemy, concluido em dezembro de 2024.
 * Entra21 - Backend em C# (EAD), pelo SENAI, concluído em abril de 2024.
 
 #### 💼 Experiência Profissional
