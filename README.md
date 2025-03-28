@@ -33,18 +33,17 @@ Olá, eu sou a Daniela, uma futura desenvolvedora de software com grande entusia
 * Spring Data JPA
 * JUnit5, Mockito, TDD e TestContainers. 
 
-Em 2024, tomei a decisão de seguir oficialmente minha carreira na área de tecnologia, transformando minha paixão por programação em uma trajetória profissional.
-
 #### 🎓 Formação Acadêmica
 
-Estou cursando meu segundo bacharelado, em Sistemas de Informação pela Uninter - Centro Universitário Internacional, com conclusão prevista para maio de 2028. Minha primeira formação foi em Moda, concluída em 2010.
+* UNINTER - Bacharelado em Sistemas de Informação - conclusão prevista para Maio/2028.
+* UNIPAR - Bacharel em Moda - concluúdo em Dezembro/2010.
 
 #### 📚 Formação Complementar
 
-* Curso - Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito, pela Udemy, início em Janeiro de 205, para adquirir conhencimentos em testes.
-* Entra21 - Backend JAVA (presencial), pelo SENAC, início em Janeiro de 2025, para aprofundar ainda mais minhas habilidades no ecossistema Java.
-* Curso - Spring Data JPA com Spring Boot, pela Udemy, concluido em dezembro de 2024.
-* Entra21 - Backend em C# (EAD), pelo SENAI, concluído em abril de 2024.
+* Entra21 (SENAC) - Backend JAVA (presencial) - início em Março de 2025.
+* UDEMY - Java Unit Testing com Spring Boot 3, TDD, JUnit 5 e Mockito - concluído em Março de 2025.
+* UDEMY - Spring Data JPA com Spring Boot - concluido em dezembro de 2024.
+* Entra21 (SENAI) - Backend em C# (EAD) - concluído em abril de 2024.
 
 #### 💼 Experiência Profissional
 
