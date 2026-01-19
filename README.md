@@ -23,15 +23,9 @@
 
 #### Sobre mim:
 
-Olá, eu sou a Daniela, uma futura desenvolvedora de software com grande entusiasmo por tecnologia e inovação. Atualmente, estou aprofundando meus conhecimentos em:
+Olá, eu sou a Daniela, sou desenvolvedora de software em início de carreira, com experiência prática em sistemas em produção, atuando com Node.js, TypeScript, React e React Native no desenvolvimento de aplicações web, mobile e APIs REST.
 
-* Java
-* Angular
-* Desenvolvimento Web
-* APIs RESTful
-* Spring Framework
-* Spring Data JPA
-* JUnit5, Mockito, TDD e TestContainers. 
+Tenho base sólida em fundamentos de programação, orientação a objetos e boas práticas de engenharia, com foco em qualidade de código, organização, testes e manutenibilidade. Atuo em equipes ágeis, lidando com código legado, evolução contínua e demandas reais de negócio, sempre buscando escrever software claro, sustentável e de longo prazo.
 
 #### 🎓 Formação Acadêmica
 
@@ -47,21 +41,22 @@ Olá, eu sou a Daniela, uma futura desenvolvedora de software com grande entusia
 
 #### 💼 Experiência Profissional
 
-Antes de migrar para a área de tecnologia, trabalhei por 13 anos no setor têxtil como modelista de roupas. Essa experiência me permitiu desenvolver competências fundamentais que aplico no meu dia a dia, como:
+Antes da transição para tecnologia, atuei por 13 anos no setor têxtil como modelista, em ambientes com alta exigência técnica, precisão e cumprimento de prazos. Essa trajetória fortaleceu competências que aplico diretamente no desenvolvimento de software, como pensamento analítico, atenção a detalhes, resolução de problemas, trabalho colaborativo e aprendizado rápido.
 
-* Comunicação eficaz
-* Resolução de problemas
-* Trabalho em equipe
-* Adaptabilidade
-* Aprendizado rápido
-* Resiliência
-* Proatividade
+#### 🛠️ Tecnologias e conhecimentos
 
-Acredito que essas habilidades são essenciais em qualquer ambiente corporativo, incluindo o desenvolvimento de software.
+* Atuação prática (ambiente de produção):
+Node.js • TypeScript • React • React Native • APIs REST • Git • Bancos de dados SQL
+
+* Experiência acadêmica e projetos:
+Java • Spring Framework • Spring Data JPA • Testes unitários (JUnit 5, Mockito) • TDD • Angular • C# • Python
+
+* Fundamentos:
+Programação Orientada a Objetos • Lógica de Programação • Estruturas de Dados • Clean Code • Metodologias Ágeis (Scrum)
 
 #### 🌟 Objetivo Profissional
 
-Estou em busca de uma oportunidade como Junior Software Developer, onde possa aplicar meus conhecimentos, aprender continuamente e contribuir para projetos inovadores.
+Atuar como Desenvolvedora de Software, contribuindo com qualidade, responsabilidade técnica e evolução contínua, enquanto aprofundo meus conhecimentos em engenharia de software e sistemas robustos.
 
 #### 🌍 Localização
 
@@ -72,56 +67,6 @@ Blumenau - SC, Brasil
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nogueiraDani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nogueiraDani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
----
-**Já estudei / tenho conhecimento intermediário:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
----
-**Estudando no momento:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/postgresql.svg" height="30" alt="postgreSQL logo"  />
-</div>
-
-###
-
----
-**Ferramentas que tenho familiaridade:**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://devicons.railway.app/i/postman.svg" height="30" alt="postgreSQL logo"  />
 </div>
 
 ###
