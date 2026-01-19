@@ -1,26 +1,5 @@
 # Olá, seja bem-vindo!👋
 
-###
-
-### Contatos:
-
-###
-
-<div align="left">
-    <a href="https://contate.me/daninogueira" target= "_blank">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/daniela-nogueira-rampim" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-    <a href = "mailto:daninogueira.dev@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
-</div>
-
----
-
-
 #### Sobre mim:
 
 Olá, eu sou a Daniela, sou desenvolvedora de software em início de carreira, com experiência prática em sistemas em produção, atuando com Node.js, TypeScript, React e React Native no desenvolvimento de aplicações web, mobile e APIs REST.
@@ -61,6 +40,15 @@ Atuar como Desenvolvedora de Software, contribuindo com qualidade, responsabilid
 #### 🌍 Localização
 
 Blumenau - SC, Brasil
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/daniela-nogueira-rampim" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href = "mailto:daninogueira.dev@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    </a>
+</div>
 
 ###
 
